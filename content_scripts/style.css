@@ -1,0 +1,9 @@
+@font-face {
+  font-family: ComicSans;
+  src: url(../comic-sans.ttf);
+}
+
+/* make good font yes */
+* {
+  font-family: ComicSans !important;
+}
